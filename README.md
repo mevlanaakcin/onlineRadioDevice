@@ -1,5 +1,5 @@
 # onlineRadioStreamDevice
-Bir IoT projesi olarak internet tabanlı radio projesi<br>
+Bir IoT projesi olarak internet tabanlı radio yayın akışı oynatma projesi<br>
 <h3>PCB Tasarımı</h3><br>
 Elektronik devre şeması ve PCB board tasarımı Eagle de tasarlandı.<br>
 <img src="https://user-images.githubusercontent.com/73975473/201216242-054ea71a-02cf-44da-9f79-b13d3cfa4ee2.png" style="width:300px"/>
