@@ -1,0 +1,8 @@
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\bin\Release\Radioorder_Setting_Radio.exe.config
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\bin\Release\Radioorder_Setting_Radio.exe
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\bin\Release\Radioorder_Setting_Radio.pdb
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\obj\Release\Radioorder_Setting_Radio.Form1.resources
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\obj\Release\Radioorder_Setting_Radio.Properties.Resources.resources
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\obj\Release\Radioorder_Setting_Radio.csproj.GenerateResource.Cache
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\obj\Release\Radioorder_Setting_Radio.exe
+C:\Users\Mevlana\Desktop\Radioorder\Radioorder_Setting_Radio\Radioorder_Setting_Radio\obj\Release\Radioorder_Setting_Radio.pdb
